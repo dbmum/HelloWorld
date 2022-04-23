@@ -6,7 +6,7 @@ My program here prints 'Hello World' using python.
 
 I have done this project in an effort to become familiar with GitHub and pushing my work to it. I started from scratch to download and install my development environment. I also included a 'git.ignore' file, so I can see how private information can be used and secured.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/lKvTsTrbyrw)
 
 # Development Environment
 
