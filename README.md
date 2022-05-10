@@ -19,5 +19,5 @@ Python
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Git Download](hhttps://git-scm.com/downloads)
+* [Git Download](https://git-scm.com/downloads)
 * [Git Ignore Files](https://git-scm.com/docs/gitignore)
